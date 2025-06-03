@@ -22,7 +22,7 @@ TL;DR: A real-time RGB SLAM system that performs dense 3D reconstruction via poi
     ·
     <a href="https://baoquanchen.info/">Baoquan Chen</a>
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2412.09401">Paper</a> | <a href="">Poster</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2412.09401">Paper</a> | <a href="https://www.youtube.com/watch?v=V1SHYkCTqHc">Video</a> | <a href="https://drive.google.com/file/d/1H631eKi6Vz-ijHcKt1JGyio-puxIYBvJ/view?usp=drive_link">Poster</a> </h3>
 <!-- <div style="line-height: 1;" align=center>
   <a href="https://arxiv.org/abs/2412.09401" target="_blank" style="margin: 2px;">
     <img alt="Arxiv" src="https://img.shields.io/badge/Arxiv-SLAM3R-red" style="display: inline-block; vertical-align: middle;"/>
